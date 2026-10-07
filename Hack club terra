@@ -1,2 +1,5 @@
 time to start coding i think this should work?
 print("hello world")
+number = int(input("Give a number: "))
+if number >=0:
+  print("Number is ood")
